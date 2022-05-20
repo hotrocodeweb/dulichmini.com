@@ -1,5 +1,6 @@
 # dulichmini.com
 Đây là source code website review đánh giá du lịch [dulichmini.com](https://dulichmini.com/) bao gồm tin tức và các bài viết đánh giá review thông tin một sản phẩm, các nơi địa điểm du lịch hợp lý có thang điểm về mỗi bài viết đánh giá.
+Link tham khảo giao diện: <a href="https://dulichmini.com/">du lịch mini</a>
 Dễ cài đặt
 Giao diện thân thiện
 Có thang điểm đánh giá sản phẩm
